@@ -1,6 +1,10 @@
 
-Naglowek 1
+Rozdzial 1
 ===========================
-siala baba mak nie wiedziala jak
+Wiersz 1
 ---------------------------------
-Wiersz: Siala baba mak nie wiedziala jak a dziad wiedzial nie powiedzial a to bylo tak
+Siala baba mak
+nie wiedziala jak
+a dziad wiedzial nie powiedzial 
+a to bylo tak
+
