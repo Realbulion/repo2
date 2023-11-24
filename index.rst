@@ -11,9 +11,9 @@ projekt1
    :maxdepth: 2
    :caption: Contents:
 
-   kapitel1
-   kapitel2
-   kapitel3
+   rozdzial1
+   rozdzial2
+   rozdzial3
 
 
 .. Indices and tables
